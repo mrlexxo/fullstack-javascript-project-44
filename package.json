@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node bin/brain-games.js"
   },
-  "author": "Alexander Ogorodov",
+  "author": "Alexander Ogorodovs",
   "license": "ISC",
   "repository": {
     "type": "git",
