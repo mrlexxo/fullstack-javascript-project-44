@@ -1,0 +1,16 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "bin/brain-games.js",
+  "scripts": {
+    "test": "node bin/brain-games.js"
+  },
+  "author": "Alexander Ogorodov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrlexxo/fullstack-javascript-project-44.git"
+  },
+  "type": "module"
+}
