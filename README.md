@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/your-badge-id/maintainability)](https://codeclimate.com/github/your-repo/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b268d6d45aadacab7801/maintainability)](https://codeclimate.com/github/mrlexxo/fullstack-javascript-project-44/maintainability)
 
 ### Hexlet tests and linter status:
 
