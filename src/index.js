@@ -10,8 +10,8 @@ const gameEngine = (gameRules, generateData) => {
     console.log(gameRules);
 
     for (let i = 0; i < roundCount; i += 1) {
-        const [questionNum, correctAnswer] = generateData();
-        console.log(`Number: ${questionNum}`);
+        const [questionEntry, correctAnswer] = generateData();
+        console.log(`Question: ${questionEntry}`);
         const userAnswer = readlineSync.question("Your answer: ").toLowerCase();
 
         if (correctAnswer !== userAnswer) {
