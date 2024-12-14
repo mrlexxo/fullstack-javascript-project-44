@@ -15,7 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "brain-game": "^1.6.9",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
