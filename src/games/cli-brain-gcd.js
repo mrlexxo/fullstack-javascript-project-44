@@ -4,12 +4,16 @@ import getRandomNum from '../getRandomNum.js';
 const gameRules = 'Find the greatest common divisor of given numbers.';
 
 const getGCD = (a, b) => {
-  while (b !== 0) {
-    const temp = b;
-    b = a % b;
-    a = temp;
+  let x = a;
+  let y = b;
+
+  while (y !== 0) {
+    const temp = y;
+    y = x % y;
+    x = temp;
   }
-  return a;
+
+  return x;
 };
 
 const generateData = () => {
