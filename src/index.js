@@ -17,7 +17,7 @@ const gameEngine = (gameRules, generateData) => {
       console.log(
         `'${userAnswer}' is wrong answer. Correct answer was '${correctAnswer}'.`
       );
-      return console.log(`Try again, ${userName}!`);
+      return console.log(`Let's try again, ${userName}!`);
     }
     console.log("Correct answer!");
   }
