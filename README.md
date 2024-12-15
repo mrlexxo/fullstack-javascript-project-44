@@ -30,9 +30,6 @@ Setup:
 ASCIINEMA TEST (BRAIN-GAMES): <br>
 [![asciicast](https://asciinema.org/a/YOBOKXg4DZo8uyVyoWSgXq6mq.svg)](https://asciinema.org/a/YOBOKXg4DZo8uyVyoWSgXq6mq)
 
-ASCIINEMA TEST (BRAIN-HELP): <br>
-[![asciicast](https://asciinema.org/a/f0h2RvQbJwAohgTBoxRMS7Qc7.svg)](https://asciinema.org/a/f0h2RvQbJwAohgTBoxRMS7Qc7)
-
 ASCIINEMA TEST (BRAIN-EVEN): <br>
 [![asciicast](https://asciinema.org/a/694807.svg)](https://asciinema.org/a/694807)
 
