@@ -8,8 +8,8 @@ brain-calc: #launch calc game
 	node bin/brain-calc.js
 brain-gcd: #launch gcd game
 	node bin/brain-gcd.js
-brain-prog: #launch prog game
-	node bin/brain-prog.js
+brain-progression: #launch prog game
+	node bin/brain-progression.js
 brain-prime: #launch prime game
 	node bin/brain-prime.js
 publish: #launch npm publish

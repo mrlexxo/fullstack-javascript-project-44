@@ -24,7 +24,7 @@ Setup:
    3.1. brain-calc for a calculation game <br>
    3.2. brain-even for an even-odd game <br>
    3.3. brain-gcd for finding the greatest common denominator game <br>
-   3.4. brain-calc for a progression game <br>
+   3.4. brain-progression for a progression game <br>
    3.5. brain-prime for a prime number game <br>
 
 ASCIINEMA TEST (BRAIN-GAMES): <br>
