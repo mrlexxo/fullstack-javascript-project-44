@@ -43,7 +43,7 @@ ASCIINEMA TEST (BRAIN-GCD): <br>
 [![asciicast](https://asciinema.org/a/uMML0cSHTMrDvfWxdD1WwAQWW.svg)](https://asciinema.org/a/uMML0cSHTMrDvfWxdD1WwAQWW)
 
 ASCIINEMA TEST (BRAIN-PROG): <br>
-[![asciicast](https://asciinema.org/a/ir3AAtd8owrFMK7pT8n0gF7yW.svg)](https://asciinema.org/a/ir3AAtd8owrFMK7pT8n0gF7yW)
+[![asciicast](https://asciinema.org/a/TOo156vzcWXTQlGhqwKTAh0Cz.svg)](https://asciinema.org/a/TOo156vzcWXTQlGhqwKTAh0Cz)
 
 ASCIINEMA TEST (BRAIN-PRIME): <br>
 [![asciicast](https://asciinema.org/a/iXnoyxX5od5oJawyU0p6k6CV6.svg)](https://asciinema.org/a/iXnoyxX5od5oJawyU0p6k6CV6)
