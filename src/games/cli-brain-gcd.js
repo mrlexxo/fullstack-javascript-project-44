@@ -1,7 +1,7 @@
-import gameEngine from "../index.js";
-import getRandomNum from "../getRandomNum.js";
+import gameEngine from '../index.js';
+import getRandomNum from '../getRandomNum.js';
 
-const gameRules = "Find the greatest common divisor of given numbers.";
+const gameRules = 'Find the greatest common divisor of given numbers.';
 
 const getGCD = (a, b) => {
   while (b !== 0) {
