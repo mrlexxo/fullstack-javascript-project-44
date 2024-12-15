@@ -8,7 +8,7 @@ const runHelp = () => {
     "Type brain-gcd for finding the greatest common denominator game."
   );
   console.log("Type brain-calc for a progression game.");
-  console.log("Type brain-calc for a prime number game.");
+  console.log("Type brain-prime for a prime number game.");
 };
 
 export default runHelp;
