@@ -6,7 +6,7 @@
 
 [![Actions Status](https://github.com/mrlexxo/fullstack-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/mrlexxo/fullstack-javascript-project-44/actions)
 
-Hi! That's my first project on Hexlet - a set of simple games that are run via bash terminal from the working directory. Just type brain-help of a manual.
+Hi! That's my first project on Hexlet - a set of simple games that are run via bash terminal from the working directory. Just type brain-help for a manual.
 
 Setup:
 
