@@ -27,9 +27,6 @@ Setup:
    3.4. brain-progression for a progression game <br>
    3.5. brain-prime for a prime number game <br>
 
-ASCIINEMA TEST (BRAIN-GAMES): <br>
-[![asciicast](https://asciinema.org/a/YOBOKXg4DZo8uyVyoWSgXq6mq.svg)](https://asciinema.org/a/YOBOKXg4DZo8uyVyoWSgXq6mq)
-
 ASCIINEMA TEST (BRAIN-EVEN): <br>
 [![asciicast](https://asciinema.org/a/694807.svg)](https://asciinema.org/a/694807)
 
