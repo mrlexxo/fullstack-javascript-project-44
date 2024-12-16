@@ -39,7 +39,7 @@ ASCIINEMA TEST (BRAIN-CALC): <br>
 ASCIINEMA TEST (BRAIN-GCD): <br>
 [![asciicast](https://asciinema.org/a/uMML0cSHTMrDvfWxdD1WwAQWW.svg)](https://asciinema.org/a/uMML0cSHTMrDvfWxdD1WwAQWW)
 
-ASCIINEMA TEST (BRAIN-PROG): <br>
+ASCIINEMA TEST (BRAIN-PROGRESSION): <br>
 [![asciicast](https://asciinema.org/a/TOo156vzcWXTQlGhqwKTAh0Cz.svg)](https://asciinema.org/a/TOo156vzcWXTQlGhqwKTAh0Cz)
 
 ASCIINEMA TEST (BRAIN-PRIME): <br>
