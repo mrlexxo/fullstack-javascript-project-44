@@ -1,16 +1,16 @@
-import gameEngine from "../index.js";
-import getRandomNum from "../getRandomNum.js";
+import gameEngine from '../index.js';
+import getRandomNum from '../getRandomNum.js';
 
-const operandArray = ["+", "-", "*"];
-const gameRules = "What is the result of the expression?";
+const operandArray = ['+', '-', '*'];
+const gameRules = 'What is the result of the expression?';
 
 const expression = (num1, operand, num2) => {
   switch (operand) {
-    case "+":
+    case '+':
       return num1 + num2;
-    case "-":
+    case '-':
       return num1 - num2;
-    case "*":
+    case '*':
       return num1 * num2;
     default:
       throw new Error(`Invalid operator - ${operand}`);
