@@ -21,8 +21,7 @@ const generateData = () => {
   const num1 = getRandomNum(1, 99);
   const num2 = getRandomNum(1, 99);
 
-  const operandRandomized =
-    operandArray[getRandomNum(0, operandArray.length - 1)];
+  const operandRandomized = operandArray[getRandomNum(0, operandArray.length - 1)];
   const questionEntry = `${num1} ${operandRandomized} ${num2}`;
   const correctAnswer = `${expression(num1, operandRandomized, num2)}`;
 
